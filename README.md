@@ -1,0 +1,2 @@
+# HOTEL
+Display the webpage
